@@ -1,6 +1,6 @@
 # merge-together
 
-My
+His
 name
 is
 Walter
